@@ -1,1 +1,2 @@
 This is test file
+This is the sample for git stash in testfile 1
