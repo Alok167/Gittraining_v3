@@ -1,3 +1,4 @@
 This is sample file 2
 
 Git revert file 2
+2
