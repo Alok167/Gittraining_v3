@@ -1,6 +1,6 @@
 This is sample file 2
 kuhygiuguo
 
-
+Vinay yadav
 Git revert file 2
 This is the sample for git stash in file 2
